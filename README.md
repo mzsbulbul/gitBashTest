@@ -1,1 +1,1 @@
-This Repository is for testing only. I am Learning git Bash. This is to Practice.
+This Repository is for testing only. I am Learning git Bash. So This Place is to Practice my git bash knowledge
